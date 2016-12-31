@@ -1,7 +1,10 @@
 # Identicon
 
-**TODO: Add description**
-
+This is an [identicon](https://en.wikipedia.org/wiki/Identicon) implementation using Elixir.
+to use it:
+  1. `Identicon.main "billy"`
+  2. Check billy.png in the same folder.
+  3. 🍺😎
 ## Installation
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed as:
